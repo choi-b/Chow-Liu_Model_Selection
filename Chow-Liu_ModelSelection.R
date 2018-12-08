@@ -59,7 +59,7 @@ plot(stepf2,numIter=1000)
 #the reduced version might be more effective in quickly identifying the relationships.
 
 
-### PROBLEM 6 ###
+##Using Cross Validation and Stability Approach to Regularization (StARS)##
 install.packages("spcov")
 library(gRbase)
 library(spcov)
